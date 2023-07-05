@@ -10,5 +10,6 @@ Best result are given by model Bayesian personolized ranking and its metric MAP@
 
 | **Name** | **Contact** |
 |----:|:----------:|
-| Diana |  dii.grase@yandex.ru |
 | Pelageya | @polyanka003 (tg) |
+| Diana |  dii.grase@yandex.ru |
+
